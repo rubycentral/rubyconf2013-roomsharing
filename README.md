@@ -25,3 +25,9 @@ The List
 ========
 
 
+* Name: Jean-Philippe Boily
+* Gender: M
+* Github Nick: @jipiboily
+* Checking In: 11/6
+* Checking Out: 11/11
+* Notes: I'll be at Ruby On Sails too. So ideally, I would checkin the day before Ruby on Sails and leave the day after Rubyconf. That said, I might also get a cheaper room elsewhere (alone) for those nights.
