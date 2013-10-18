@@ -24,14 +24,6 @@ Sample
 The List
 ========
 
-* Name: Andy Waite
-* Gender: M
-* Github Nick: @andyw8
-* Checking In: 11/7
-* Checking Out: 11/9 or 11/10
-
-.
-
 * Name: Dirkjan Bussink
 * Gender: M
 * Github Nick: @dbussink
